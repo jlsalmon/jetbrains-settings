@@ -1,0 +1,19 @@
+<application>
+  <component name="Arduino Support Settings">
+    <boardCpuMap>
+      <entry key="leonardo" value="" />
+      <entry key="uno" value="" />
+    </boardCpuMap>
+    <option name="boardId" value="leonardo" />
+    <option name="boardName" value="Arduino Leonardo" />
+    <option name="languageVersionId" value="11" />
+    <option name="languageVersionName" value="C++ 11" />
+    <option name="port" value="/dev/cu.usbmodem14101" />
+    <option name="portHistory">
+      <option value="/dev/cu.usbmodem14101" />
+    </option>
+    <option name="programmerId" value="avrispmkii" />
+    <option name="programmerName" value="AVRISP mkII" />
+    <option name="verbose" value="true" />
+  </component>
+</application>

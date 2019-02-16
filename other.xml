@@ -1,0 +1,25 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="C File Header" />
+    <property name="KEYMAP" value="stop" />
+    <property name="PLUGIN_FILTER" value="arduino" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SerialMonitorDuplexConsoleViewState" value="true" />
+    <property name="SettingsSearchHistory" value="settings&#10;tabs&#10;comment&#10;build&#10;template" />
+    <property name="TrendingPluginsSearchHistory" value="arduino&#10;serial port&#10;platformio" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.182" value="16" />
+    <property name="evlsprt3.183" value="14" />
+    <property name="file.gist.reindex.count" value="5833" />
+    <property name="fileTypeChangedCounter" value="3" />
+    <property name="last.imported.location" value="$USER_HOME$/Documents/uni/robotics/test" />
+    <property name="lastTip" value="1" />
+    <property name="settings.code.style.selected.tab.ObjectiveC" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>

@@ -1,0 +1,7 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Build">
+    <keyboard-shortcut first-keystroke="meta f9" />
+    <keyboard-shortcut first-keystroke="meta u" />
+  </action>
+  <action id="GotoSuperMethod" />
+</keymap>
