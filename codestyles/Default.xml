@@ -1,7 +1,14 @@
 <code_scheme name="Default" version="173">
   <option name="SOFT_MARGINS" value="80" />
+  <Objective-C>
+    <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
+  </Objective-C>
   <codeStyleSettings language="ObjectiveC">
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="LINE_COMMENT_ADD_SPACE" value="true" />
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
