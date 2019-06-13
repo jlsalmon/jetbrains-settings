@@ -1,7 +1,7 @@
 <application>
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
-      <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" customCCompilerPath="/usr/bin/gcc" debuggerKind="BUNDLED_LLDB" />
+      <toolchain name="Default" toolSetKind="REMOTE" customCMakePath="/usr/bin/cmake" customCCompilerPath="/usr/bin/gcc" hostId="099900de-87dd-46fb-92e6-6491ecd42c84" debuggerKind="CUSTOM_GDB" />
     </toolchains>
   </component>
 </application>
