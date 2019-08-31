@@ -8,6 +8,7 @@
       <mapping ext="pxd" type="PLAIN_TEXT" />
       <mapping ext="stl" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
+      <mapping ext="h5m" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
